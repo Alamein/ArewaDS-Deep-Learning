@@ -5,3 +5,12 @@
 (https://github.com/Alamein/ArewaDS-Deep-Learning/assets/70522655/59def610-fcfa-46ab-9b9f-98d260d025e9)
 
 Arewa Data Science Academy (ADS) Deep Learning with Pytorch work space.
+# My Awesome Repository
+
+Welcome to my awesome repository! Here's an overview of the folders and their contents:
+
+| WEEKS              | EXCERCISES                                       |
+| ------------------ | ------------------------------------------------ |
+| Week 1 (PyTorch Fundamentals)   |  [`DL_exercise_00.ipynb`](week_001) |
+
+
