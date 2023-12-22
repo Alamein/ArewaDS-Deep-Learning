@@ -2,7 +2,6 @@
 ![arewadsimage](https://github.com/Alamein/ArewaDS-Deep-Learning/assets/70522655/24bcb132-90f7-4dbe-a23f-ebeac87f216e)
 
 ![Pytorch](https://github.com/Alamein/ArewaDS-Deep-Learning/assets/70522655/c4242192-96f9-4f51-927e-b31c221aa0be)
-(https://github.com/Alamein/ArewaDS-Deep-Learning/assets/70522655/59def610-fcfa-46ab-9b9f-98d260d025e9)
 
 Arewa Data Science Academy (ADS) Deep Learning with Pytorch work space.
 # My Awesome Repository
