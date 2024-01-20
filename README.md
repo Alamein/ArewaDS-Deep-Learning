@@ -12,4 +12,5 @@ Welcome to my awesome repository! Here's an overview of the folders and their co
 | ------------------ | ------------------------------------------------ |
 | Week 1 (PyTorch Fundamentals)   |  [`DL_exercise_00.ipynb`](week_001) |
 | Week 2 (PyTorch WorkFlow Fundamentals)   |  [`week_002`](week_002) |
+| Week 3 (PyTorch WorkFlow Fundamentals)   |  [`week_003`](week_003) |
 |Advanced Assignments   |  [`week_1_&_2_Advanced_exercises.ipynb`](Advanced_Assignments) |
