@@ -14,4 +14,5 @@ Welcome to my awesome repository! Here's an overview of the folders and their co
 | Week 2 (PyTorch WorkFlow Fundamentals)   |  [`week_002`](week_002) |
 | Week 3 (PyTorch Neural Network Classification)   |  [`week_003`](week_003) |
 | Week 4 (PyTorch Computer Vision)   |  [`week_004`](week_004) |
+| Week 5 (PyTorch Cuatom DataSets)   |  [`week_005`](week_005) |
 |Advanced Assignments   |  [`week_1_&_2_Advanced_exercises.ipynb`](Advanced_Assignments) |
